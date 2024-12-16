@@ -4,43 +4,52 @@ IT未経験者でも大丈夫！
 この講座では、スマホアプリを作るためのプログラミング言語「Flutter」を基礎から学んで、実際に動くアプリを作れるようになります。
 
 
+## 講座の流れ
 
-## 概要
+1. Dart文法をマスター
+   
+   Dartプログラミング言語の学習
 
-iOS：App storeでインストールできるアプリ。Swift言語をベースにしています。
+2. 天気予報アプリを開発
+   
+   Flutter環境構築・UI構築・API連携
 
-Android: Google Play Storeでインストールできるアプリ。
+3. SNSアプリを開発
 
-## 研修の流れ
+   本格的なアプリの実装・バックエンド連携
 
-1. プログラミング言語「dart」の学習
-2. Flutterの環境構築
-3. GithubでFlutterリポジトリを作成
-4. Flutter天気予報アプリを開発
-5. FlutterSNSアプリを開発
+6. ハッカソンに向けて
 
-### 自分専用のリポジトリを作成
+   ２日間でアプリを実装するのに必要なこと
 
-このリポジトリはテンプレートリポジトリに設定されています。
+7. ブラッシュアップ
 
-「Use this template」をタップして、ご自身の GitHub アカウントで研修用のリポジトリを作成してください。
+   アプリのブラッシュアップ・現場レベルにアプリの完成度を上げる
 
-ただし、リポジトリ名は「flutter-training-template」以外の名前にする必要があります。
 
-<img src="docs/images/template.png" width="480" alt="template">
 
-リポジトリが作成されたら、テンプレートのクリーンワークフローが自動実行されます。
 
-テンプレートのクリーンワークフローでは次のことをしています。
+## 課題
 
-- 各 Session を Issue に登録
-- 各 Challenge を Issue に登録
-- fvm を利用して、最新安定版の Flutter SDK で Android・iOS 用のプロジェクトを作成
-- lints を導入
-- [templates] 配下のファイルを上書きコピー
-- 不要なファイルを削除してコミット作成してプッシュ
+### Section1. Dart文法をマスター
 
-### 課題の進め方
+1. [プログラムを実行してみよう](./edu/edu_dart/01_run.md)
+2. [基本文法](./edu/edu_dart/02_grammar.md)
+3. [変数](./edu/edu_dart/03_var.md)
+4. [定数](./edu/edu_dart/04_const.md)
+5. [条件分岐](./edu/edu_dart/05_if.md)
+6. [繰り返し](./edu/edu_dart/06_repeat.md)
+7. [配列](./edu/edu_dart/07_array.md)
+8. [関数](./edu/edu_dart/08_func.md)
+9. [クラス](./edu/edu_dart/09_class.md)
+
+
+
+### Section2. 天気予報アプリを開発
+
+ここから先は、課題を **GithubのPR** で提出してもらいます。
+
+#### 課題の進め方
 
 1. 課題用のブランチを切って実施
    `session/{#}`
@@ -51,7 +60,7 @@ Android: Google Play Storeでインストールできるアプリ。
 
 全ての課題をクリアしたら修了です！
 
-### レビュー待ちのとき
+#### レビュー待ちのとき
 
 レビュー待ちの時は次の課題に先行着手しましょう。
 `git rebase` コマンドを使ってみましょう。[^1]
@@ -66,24 +75,26 @@ Session1 がレビュー待ちの場合...
 どのような方法をとるかはチームで議論するべきと考えます。
 ただ、この研修は「`rebase` コマンドを使ってみる」ことも研修の一部としています。
 
-## 課題
+#### いよいよ課題です！
 
-### Session
 
-- [プログラムを実行してみよう](./edu/edu_dart/01_run.md)
-- [基本文法](./edu/edu_dart/02_grammar.md)
-- [変数](./edu/edu_dart/03_var.md)
-- [定数](./edu/edu_dart/04_const.md)
-- [条件分岐](./edu/edu_dart/05_if.md)
-- [繰り返し](./edu/edu_dart/06_repeat.md)
-- [配列](./edu/edu_dart/07_array.md)
-- [関数](./edu/edu_dart/08_func.md)
-- [クラス](./edu/edu_dart/09_class.md)
 
-### Challenge
 
-> **Warning**
-> 作成中
+
+
+### Section3. SNSアプリを開発
+
+
+
+### Section4. ハッカソンに向けて
+
+
+
+### Section3. ブラッシュアップ
+
+
+
+
 
 ## レビュー観点表
 

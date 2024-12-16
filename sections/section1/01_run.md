@@ -6,7 +6,7 @@
 
 `main() { }` の中に `print(〇〇);` というコードを書くと、中の〇〇という文字がコンソールに出力されます。
 
-![image.png](./01/image.png)
+![image.png](.images/01/image.png)
 
 ## Next:
 
