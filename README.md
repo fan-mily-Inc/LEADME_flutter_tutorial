@@ -70,18 +70,15 @@ Session1 がレビュー待ちの場合...
 
 ### Session
 
-- [Session0-Setup]
-- [Session1-Layout]
-- [Session2-API]
-- [Session3-Lifecycle]
-- [Session4-Mixin]
-- [Session5-Error]
-- [Session6-JSON]
-- [Session7-Serialization]
-- [Session8-StateManagement]
-- [Session9-UnitTest]
-- [Session10-WidgetTest]
-- [Session11-ThreadBlock]
+- [プログラムを実行してみよう](./edu/edu_dart/01_run.md)
+- [基本文法](./edu/edu_dart/02_grammar.md)
+- [変数](./edu/edu_dart/03_var.md)
+- [定数](./edu/edu_dart/04_const.md)
+- [条件分岐](./edu/edu_dart/05_if.md)
+- [繰り返し](./edu/edu_dart/06_repeat.md)
+- [配列](./edu/edu_dart/07_array.md)
+- [関数](./edu/edu_dart/08_func.md)
+- [クラス](./edu/edu_dart/09_class.md)
 
 ### Challenge
 
