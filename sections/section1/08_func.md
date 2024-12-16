@@ -12,12 +12,11 @@
 
 また、このように関数を用意することを「関数を定義する」と呼びますので覚えておきましょう。
 
-![Screenshot 2024-10-25 at 16.23.46.png](08/Screenshot_2024-10-25_at_16.23.46.png)
+![Screenshot 2024-10-25 at 16.23.46.png](../section1/images/08/Screenshot_2024-10-25_at_16.23.46.png)
 
 <aside>
-💡
 
-今まで Dart Pad でコードを書いていたのも、「main」という名前の関数の中です。
+💡 今まで Dart Pad でコードを書いていたのも、「main」という名前の関数の中です。
 
 </aside>
 
@@ -25,7 +24,7 @@
 
 定義した関数名を用いて、「関数名()」と書くことで関数の中の処理を実行できます。このことを「関数を呼び出す」と言います。
 
-![Screenshot 2024-10-25 at 16.25.38.png](08/Screenshot_2024-10-25_at_16.25.38.png)
+![Screenshot 2024-10-25 at 16.25.38.png](../section1/images/08/Screenshot_2024-10-25_at_16.25.38.png)
 
 実際に、自分で好きな関数名と処理を書いて、main()関数の中で呼び出してみましょう！！
 
@@ -43,11 +42,11 @@
 
 引数を受け取ることができます。
 
-![Screenshot 2024-10-25 at 16.30.35.png](08/Screenshot_2024-10-25_at_16.30.35.png)
+![Screenshot 2024-10-25 at 16.30.35.png](../section1/images/08/Screenshot_2024-10-25_at_16.30.35.png)
 
 引数は関数内では定数や変数と同じように使用することができます。
 
-![Screenshot 2024-10-25 at 16.34.19.png](08/Screenshot_2024-10-25_at_16.34.19.png)
+![Screenshot 2024-10-25 at 16.34.19.png](../section1/images/08/Screenshot_2024-10-25_at_16.34.19.png)
 
 複数の引数を同時に渡すことも可能です。
 
@@ -55,7 +54,7 @@
 
 渡す引数の順番と関数を定義したときの引数の順番は対応しているので、関数を呼び出すときは引数の順番に気をつけましょう。
 
-![Screenshot 2024-10-25 at 16.35.46.png](08/Screenshot_2024-10-25_at_16.35.46.png)
+![Screenshot 2024-10-25 at 16.35.46.png](../section1/images/08/Screenshot_2024-10-25_at_16.35.46.png)
 
 ## 返り値・戻り値
 
@@ -71,11 +70,11 @@
 
 下の画像では、aとbを足した値が返り値として呼び出し元に返ります。
 
-![Screenshot 2024-10-25 at 16.46.10.png](08/Screenshot_2024-10-25_at_16.46.10.png)
+![Screenshot 2024-10-25 at 16.46.10.png](../section1/images/08/Screenshot_2024-10-25_at_16.46.10.png)
 
 呼び出した関数に返り値がある場合、関数の呼び出し部分がそのまま返り値に置き換わります。
 
-![Screenshot 2024-10-25 at 16.46.36.png](08/Screenshot_2024-10-25_at_16.46.36.png)
+![Screenshot 2024-10-25 at 16.46.36.png](../section1/images/08/Screenshot_2024-10-25_at_16.46.36.png)
 
 ## 戻り値・返り値の活用
 
@@ -83,7 +82,7 @@
 
 例えば、if文で使うような条件式をreturnすると、その条件式の結果として得られる真偽値（trueまたはfalse）を返すことができます。
 
-![Screenshot 2024-10-25 at 16.49.58.png](08/Screenshot_2024-10-25_at_16.49.58.png)
+![Screenshot 2024-10-25 at 16.49.58.png](../section1/images/08/Screenshot_2024-10-25_at_16.49.58.png)
 
 ## returnによる処理の終了
 
@@ -91,7 +90,7 @@ returnについて詳しく見てみましょう。
 
 returnは、返り値を返すだけでなく、関数の処理を終了させる性質も持っています。よって、returnの後にある関数内の処理は実行されませんので注意しましょう。
 
-![Screenshot 2024-10-25 at 16.52.23.png](08/Screenshot_2024-10-25_at_16.52.23.png)
+![Screenshot 2024-10-25 at 16.52.23.png](../section1/images/08/Screenshot_2024-10-25_at_16.52.23.png)
 
 ## スコープ
 
@@ -99,16 +98,15 @@ returnは、返り値を返すだけでなく、関数の処理を終了させ�
 
 関数の外側で定義した変数や定数は、プログラムのどこからでも使えます。
 
-![image.png](08/image.png)
+![image.png](../section1/images/08/image.png)
 
 関数の `{}`内で定義した変数や定数は、その関数の内側でのみ使用できます。図のように、関数の内側で定義された定数を関数の外側で使用するとエラーになるので注意しましょう。
 
-![image.png](08/image%201.png)
+![image.png](../section1/images/08/image%201.png)
 
 <aside>
-💡
 
-少し汚い話ですが、単純にこういう考え方もできるよ、という例
+💡 少し汚い話ですが、単純にこういう考え方もできるよ、という例
 
 [https://wa3.i-3-i.info/diff989programming.html](https://wa3.i-3-i.info/diff989programming.html)
 

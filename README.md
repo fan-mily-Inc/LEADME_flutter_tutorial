@@ -27,22 +27,20 @@ IT未経験者でも大丈夫！
    アプリのブラッシュアップ・現場レベルにアプリの完成度を上げる
 
 
-
-
 ## 課題
 
 ### Section1. Dart文法をマスター
 
-1. [プログラムを実行してみよう](./edu/edu_dart/01_run.md)
-2. [基本文法](./edu/edu_dart/02_grammar.md)
-3. [変数](./edu/edu_dart/03_var.md)
-4. [定数](./edu/edu_dart/04_const.md)
-5. [条件分岐](./edu/edu_dart/05_if.md)
-6. [繰り返し](./edu/edu_dart/06_repeat.md)
-7. [配列](./edu/edu_dart/07_array.md)
-8. [関数](./edu/edu_dart/08_func.md)
-9. [クラス](./edu/edu_dart/09_class.md)
-
+1. [導入](./sections/00_top.md)
+1. [プログラムを実行してみよう](./sections/section1/01_run.md)
+1. [基本文法](./sections/section1/02_grammar.md)
+1. [変数](./sections/section1/03_var.md)
+1. [定数](./sections/section1/04_const.md)
+1. [条件分岐](./sections/section1/05_if.md)
+1. [繰り返し](./sections/section1/06_repeat.md)
+1. [配列](./sections/section1/07_array.md)
+1. [関数](./sections/section1/08_func.md)
+1. [クラス](./sections/section1/09_class.md)
 
 
 ### Section2. 天気予報アプリを開発

@@ -4,11 +4,13 @@
 
 [https://dartpad.dev/](https://dartpad.dev/) にアクセス
 
-![Screenshot 2024-10-20 at 16.50.49.png](/edu_dart/00.png)
+![img00](../sections/section1/images/00/00.png)
 
 - エディタ(左): ここにDartのコードを書く
 - コンソール(右): プログラムの出力結果や、エラーが出る
 - RUNボタン: プログラムを開始する
+
+ご自身のPCに Dart/Flutter を書くための環境を整備するまでは、このオンラインのエディタを使用します。
 
 ## プログラムの基本
 
@@ -22,25 +24,17 @@
 
 ### 基本的に上から順にやっていけばOK
 
-途中、画像でプログラムのサンプルが出てくるので、自分でも書いて実行してみましょう！！
+途中、画像でプログラムのサンプルが出てくるので、実際にオンラインエディタで書いて実行してみましょう！！
 
-[プログラムを実行してみよう](./edu_dart/01_run.md)
-
-[基本文法](./edu_dart/02_grammar.md)
-
-[変数](./edu_dart/03_var.md)
-
-[定数](./edu_dart/04_const.md)
-
-[条件分岐](./edu_dart/05_if.md)
-
-[繰り返し](./edu_dart/06_repeat.md)
-
-[配列](./edu_dart/07_array.md)
-
-[関数](./edu_dart/08_func.md)
-
-[クラス](./edu_dart/09_class.md)
+1. [プログラムを実行してみよう](./sections/section1/01_run.md)
+1. [基本文法](./sections/section1/02_grammar.md)
+1. [変数](./sections/section1/03_var.md)
+1. [定数](./sections/section1/04_const.md)
+1. [条件分岐](./sections/section1/05_if.md)
+1. [繰り返し](./sections/section1/06_repeat.md)
+1. [配列](./sections/section1/07_array.md)
+1. [関数](./sections/section1/08_func.md)
+1. [クラス](./sections/section1/09_class.md)
 
 ---
 

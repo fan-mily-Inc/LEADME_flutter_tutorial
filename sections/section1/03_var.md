@@ -6,7 +6,7 @@
 
 変数は、データ（値）の入れ物（箱）です。箱についている名前が「変数名」であり、箱の中に実際の値（文字列や数値など）が入っています。
 
-![Progate, [https://prog-8.com/es6/study/1/11#/12](https://prog-8.com/es6/study/1/11#/12)](03/image.png)
+![Progate, [https://prog-8.com/es6/study/1/11#/12](https://prog-8.com/es6/study/1/11#/12)](../section1/images/03/image.png)
 
 Progate, [https://prog-8.com/es6/study/1/11#/12](https://prog-8.com/es6/study/1/11#/12)
 
@@ -17,11 +17,11 @@ Progate, [https://prog-8.com/es6/study/1/11#/12](https://prog-8.com/es6/study/1/
 型は「これから変数を定義しますよ〜」という宣言で、その後ろに変数名を書き、値を代入します。
 型には種類があるので、後述します。
 
-![Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/11#/13)](03/image%201.png)
+![Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/11#/13)](../section1/images/03/image%201.png)
 
 Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/11#/13)
 
-![image.png](03/image%202.png)
+![image.png](../section1/images/03/image%202.png)
 
 ## 型
 
@@ -39,9 +39,9 @@ Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/
 
 変数を使うと変数の部分は代入した値に置き換わります。
 
-![Screenshot 2024-10-21 at 18.12.49.png](03/Screenshot_2024-10-21_at_18.12.49.png)
+![Screenshot 2024-10-21 at 18.12.49.png](../section1/images/03/Screenshot_2024-10-21_at_18.12.49.png)
 
-![image.png](03/image%203.png)
+![image.png](../section1/images/03/image%203.png)
 
 ## 変数の特徴
 
@@ -49,7 +49,7 @@ Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/
 
 代入されている値が、文字列の場合は他の文字列と連結することができ、数値の場合は計算に用いることができます。
 
-![Screenshot 2024-10-21 at 18.20.06.png](03/Screenshot_2024-10-21_at_18.20.06.png)
+![Screenshot 2024-10-21 at 18.20.06.png](../section1/images/03/Screenshot_2024-10-21_at_18.20.06.png)
 
 ## なぜ変数を使うのか
 
@@ -63,25 +63,23 @@ Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/
 
 「同じ値を繰り返し使える」「変更に対応しやすい」という具体例を見てみましょう。図のように似た文章を何度も書くのは面倒ですが、変数を使えば同じ値を繰り返し使え、楽にコードを書くことが出来ます。また文章が後ほど変更されても、変数を用いていれば、代入する値を変更するだけで全ての変更に対応できます。
 
-![image.png](03/image%204.png)
+![image.png](../section1/images/03/image%204.png)
 
 ## 変数の命名ルール
 
 変数名は自由に決めることができますが、できるだけ分かりやすい名前をつけるようにしましょう。
 
 <aside>
-✅
 
-### 良い例
+### ✅ 良い例
 
-- number          ・・・英単語を用いる
+- number　　・・・英単語を用いる
 - oddNumber   ・・・2語以上の場合は大文字で区切る
 </aside>
 
 <aside>
-❌
 
-### 悪い例
+### ❌ 悪い例
 
 - 1number　・・・数字で開始（エラーが出る）
 - bango　　・・・ローマ字（望ましくない）
@@ -96,9 +94,9 @@ Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/
 
 また、プログラムは上から順に実行されるので、後から代入された値で変数の中身が更新されます。
 
-![image.png](03/image%205.png)
+![image.png](../section1/images/03/image%205.png)
 
-![Screenshot 2024-10-21 at 18.34.44.png](03/Screenshot_2024-10-21_at_18.34.44.png)
+![Screenshot 2024-10-21 at 18.34.44.png](../section1/images/03/Screenshot_2024-10-21_at_18.34.44.png)
 
 ## 変数自身を更新する
 
@@ -106,7 +104,7 @@ Progate, [https://prog-8.com/es6/study/1/11#/13](https://prog-8.com/es6/study/1/
 
 これは図のようにnumberに3を足して、再びnumberに代入することで実現できます。「=」の右側のnumberは値に置き換わり、計算された結果が、左のnumberに代入されています。
 
-![Screenshot 2024-10-21 at 18.37.10.png](03/Screenshot_2024-10-21_at_18.37.10.png)
+![Screenshot 2024-10-21 at 18.37.10.png](../section1/images/03/Screenshot_2024-10-21_at_18.37.10.png)
 
 ### 省略した書き方
 
