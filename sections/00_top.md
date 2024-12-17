@@ -4,7 +4,7 @@
 
 [https://dartpad.dev/](https://dartpad.dev/) にアクセス
 
-![img00](../sections/section1/images/00/00.png)
+<img src="./section1/images/00/00.png" width="700">
 
 - エディタ(左): ここにDartのコードを書く
 - コンソール(右): プログラムの出力結果や、エラーが出る

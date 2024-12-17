@@ -10,29 +10,29 @@
 
 文字列をクォーテーションで囲まないとエラーが出ます！
 
-![image.png](../section1/images/02/image.png)
+<img src="../section1/images/02/image.png" width="500">
 
-![image.png](../section1/images/02/image%201.png)
+<img src="../section1/images/02/image%201.png" width="500">
 
 ## セミコロン
 
 文の最後にはセミコロン(;)を付けないといけない。
 
-![image.png](../section1/images/02/image%202.png)
+<img src="../section1/images/02/image 2.png" width="500">
 
 ## コメントアウト
 
 文頭に`//`を書くと、その行はコメントと見なされます。そのため、プログラムとしては無視され、実行されません（コメントアウトと言う）
 コメントは、どのような意味のコードであるかを記すメモとして使われます。
 
-![image.png](../section1/images/02/image%203.png)
+<img src="../section1/images/02/image 3.png" width="700">
 
 ## 数値と計算
 
 プログラミングでは、数値（数字）を扱うこともできます。数値は文字列と違い、クォーテーションで囲みません。
 数値は足し算や引き算といった四則演算をすることができます。以下のような記号で計算しますが、これら数値と記号は全て半角で記述することに注意！
 
-![image.png](../section1/images/02/image%204.png)
+<img src="../section1/images/02/image 4.png" width="700">
 
 ## 文字列と数値
 
@@ -41,7 +41,7 @@
 
 文字列と数値は明確に違うものであることを意識しましょう。
 
-![image.png](../section1/images/02//image%205.png)
+<img src="../section1/images/02/image 5.png" width="700">
 
 ## 文字列の連結
 
@@ -49,7 +49,7 @@
 
 図のように「”福沢” + “諭吉”」とすると、「”福沢諭吉”」という1つの文字列になります。
 
-![image.png](../section1/images/02//image%206.png)
+<img src="../section1/images/02/image 6.png" width="700">
 
 ## Next:
 

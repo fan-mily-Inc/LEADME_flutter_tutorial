@@ -6,7 +6,7 @@
 
 例えば、果物の名前についての値がいくつもあるとき、それぞれを定数（変数）として定義するより、「果物の名前一覧」といったように、関連する値をまとめて管理すると便利です。
 
-![image.png](../section1/images/07/image.png)
+<img src="../section1/images/07/image.png" width="500">
 
 ## 配列
 
@@ -16,7 +16,7 @@
 
 配列を使うと、画像のように複数の文字列や数値をまとめて書くことができます。
 
-![Screenshot 2024-10-25 at 18.49.38.png](../section1/images/07/Screenshot_2024-10-25_at_18.49.38.png)
+<img src="../section1/images/07/Screenshot_2024-10-25_at_18.49.38.png" width="500">
 
 配列も1つの値なので、定数に代入することができます。
 
@@ -24,7 +24,7 @@
 
 画像のように、「print(定数名)」とすると、配列がコンソールに出力されます。
 
-![Screenshot 2024-10-25 at 18.51.10.png](../section1/images/07/Screenshot_2024-10-25_at_18.51.10.png)
+<img src="../section1/images/07/Screenshot_2024-10-25_at_18.51.10.png" width="700">
 
 ## インデックス番号
 
@@ -32,7 +32,7 @@
 
 インデックス番号は、0から始まることに注意しましょう。
 
-![image.png](../section1/images/07/0742d0ca-7431-4a46-b755-beb00b1c42b1.png)
+<img src="../section1/images/07/0742d0ca-7431-4a46-b755-beb00b1c42b1.png" width="500">
 
 インデックス番号を用いて配列の要素を取得してみましょう。
 
@@ -40,13 +40,13 @@
 
 例えば「apple」の取得は、画像のように、appleのインデックス番号である0を用いて `fruits[0]`とすることで可能です。
 
-![Screenshot 2024-10-25 at 18.53.38.png](../section1/images/07/Screenshot_2024-10-25_at_18.53.38.png)
+<img src="../section1/images/07/Screenshot_2024-10-25_at_18.53.38.png" width="700">
 
 ## 要素の更新
 
 配列は画像のように、要素に値を代入することでその要素を上書きすることができます。
 
-![Screenshot 2024-10-25 at 18.55.55.png](../section1/images/07/Screenshot_2024-10-25_at_18.55.55.png)
+<img src="../section1/images/07/Screenshot_2024-10-25_at_18.55.55.png" width="700">
 
 <aside>
 
@@ -85,7 +85,7 @@ for (int i = 0; i < 3; i++) {
 
 また、画像のように `配列.length`とすることで、配列の要素数を取得できます。
 
-![Screenshot 2024-10-25 at 19.03.03.png](../section1/images/07/Screenshot_2024-10-25_at_19.03.03.png)
+<img src="../section1/images/07/Screenshot_2024-10-25_at_19.03.03.png" width="700">
 
 また、lengthを用いれば、先ほどのfor文の条件式を以下のように書き換えることができます。配列の要素数が変わっても問題なく繰り返すことができるので便利です。これは配列の繰り返し処理でよく使う書き方なので、覚えておきましょう。
 

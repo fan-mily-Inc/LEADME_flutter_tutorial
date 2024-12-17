@@ -8,11 +8,11 @@
 
 このように1から順番にconsole.logで出力していくことでできます。
 
-![Screenshot 2024-10-25 at 15.49.37.png](../section1/images/06/Screenshot_2024-10-25_at_15.49.37.png)
+<img src="../section1/images/06/Screenshot_2024-10-25_at_15.49.37.png" width="700">
 
 ですが今回は「変数」の復習も兼ねて、以下のように変数numberを用意し、1回ずつ自分自身に1を足していきましょう。
 
-![Screenshot 2024-10-25 at 15.51.49.png](../section1/images/06/Screenshot_2024-10-25_at_15.51.49.png)
+<img src="../section1/images/06/Screenshot_2024-10-25_at_15.51.49.png" width="700">
 
 ## 繰り返し
 
@@ -28,11 +28,11 @@
 
 for文は以下のように書き、「条件式がtrueの間、 {}内の処理を繰り返す」ことができます。{}の後にセミコロンは不要です。
 
-![image.png](../section1/images/06/89500dc2-0ff2-4c5e-b561-fc5bf79f6466.png)
+<img src="../section1/images/06/89500dc2-0ff2-4c5e-b561-fc5bf79f6466.png" width="500">
 
 これで、1から100までを出力すると以下のようになります。
 
-![Screenshot 2024-10-25 at 15.56.40.png](../section1/images/06/Screenshot_2024-10-25_at_15.56.40.png)
+<img src="../section1/images/06/Screenshot_2024-10-25_at_15.56.40.png" width="700">
 
 「number += 1」は「number ++」のように省略して書くことができます。また、引き算の場合にも、「number -= 1」を「number --」と省略することができます。
 

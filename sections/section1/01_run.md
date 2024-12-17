@@ -6,7 +6,7 @@
 
 `main() { }` の中に `print(〇〇);` というコードを書くと、中の〇〇という文字がコンソールに出力されます。
 
-![img](../section1/images/01/image.png)
+<img src="../section1/images/01/image.png" with="700">
 
 これで、無事 Dart のプログラムを動かせたことになります！
 
