@@ -29,6 +29,9 @@ IT未経験者でも大丈夫！
 
 ## 課題
 
+### Section0. オープニング
+[アプリ開発とは Flutterとは](./sections/section0/00_opening.md)
+
 ### Section1. Dart文法をマスター
 
 1. [導入](./sections/00_top.md)
