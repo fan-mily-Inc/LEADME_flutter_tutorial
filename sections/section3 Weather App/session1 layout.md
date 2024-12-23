@@ -14,3 +14,7 @@
 5. Containerの枠線を10px分角丸にする
 6. Containerの中のテキストは文章量が多い場合はスクロールしてみれるようにする
 6. 都道府県を選択するボタンの上部に16px、paddingを設ける
+
+
+## NEXT: 
+[画面遷移を実装する](./session2%20navigation.md)
