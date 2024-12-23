@@ -26,18 +26,8 @@
 
 途中、画像でプログラムのサンプルが出てくるので、実際にオンラインエディタで書いて実行してみましょう！！
 
-1. [プログラムを実行してみよう](./sections/section1/01_run.md)
-1. [基本文法](./sections/section1/02_grammar.md)
-1. [変数](./sections/section1/03_var.md)
-1. [定数](./sections/section1/04_const.md)
-1. [条件分岐](./sections/section1/05_if.md)
-1. [繰り返し](./sections/section1/06_repeat.md)
-1. [配列](./sections/section1/07_array.md)
-1. [関数](./sections/section1/08_func.md)
-1. [クラス](./sections/section1/09_class.md)
-
 ---
 
 ## Next: 環境構築
 
-[環境構築](https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/06_chapter1_environment#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89(windows))
+[プログラムを実行してみよう](./01_run.md)
