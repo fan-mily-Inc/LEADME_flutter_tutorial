@@ -30,11 +30,11 @@ IT未経験者でも大丈夫！
 ## 課題
 
 ### Section0. オープニング
-[アプリ開発とは Flutterとは](./sections/section0/00_opening.md)
+[アプリ開発とは Flutterとは](./sections/section0%20Opening/00_opening.md)
 
 ### Section1. Dart文法をマスター
 
-1. [導入](./sections/00_top.md)
+1. [導入](./sections/section1/00_top.md)
 1. [プログラムを実行してみよう](./sections/section1/01_run.md)
 1. [基本文法](./sections/section1/02_grammar.md)
 1. [変数](./sections/section1/03_var.md)
@@ -55,17 +55,15 @@ IT未経験者でも大丈夫！
 ここから先は、課題を **GithubのPR** で提出してもらいます。
 
 
+1. [天気予報アプリの画面レイアウトを構成する](/sections/section3/session1%20layout.md)
 
+2. [画面遷移を実装する](/sections/section3/session2%20navigation.md)
 
 
 
 
 
 ### Section3. SNSアプリを開発
-
-1. [天気予報アプリの画面レイアウトを構成する](/sections/section3%20Weather%20App/session1%20layout.md)
-
-2. [画面遷移を実装する](/sections/section3%20Weather%20App/session2%20navigation.md)
 
 
 
