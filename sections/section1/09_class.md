@@ -44,3 +44,6 @@ void main() {
   myCar.drive(); // 実際に走らせる
 }
 ```
+
+## Next: 
+[setup](../section2/00_setup.md)

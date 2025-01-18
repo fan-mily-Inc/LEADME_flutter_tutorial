@@ -55,9 +55,11 @@ IT未経験者でも大丈夫！
 ここから先は、課題を **GithubのPR** で提出してもらいます。
 
 
-1. [天気予報アプリの画面レイアウトを構成する](/sections/section3/session1%20layout.md)
+1. [天気予報アプリの画面レイアウトを構成する](/sections/section3/session1_layout.md)
 
-2. [画面遷移を実装する](/sections/section3/session2%20navigation.md)
+2. [画面遷移を実装する](/sections/section3/session2_navigation.md)
+
+3. [API連携で敵予報データを取得する](/sections/section3/session3_api.md)
 
 
 
