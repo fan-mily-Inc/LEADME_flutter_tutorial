@@ -59,7 +59,7 @@ IT未経験者でも大丈夫！
 
 2. [画面遷移を実装する](/sections/section3/session2_navigation.md)
 
-3. [API連携で敵予報データを取得する](/sections/section3/session3_api.md)
+3. [API連携で天気予報データを取得する](/sections/section3/session3_api.md)
 
 
 
