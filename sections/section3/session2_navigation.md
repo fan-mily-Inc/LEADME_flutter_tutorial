@@ -25,3 +25,10 @@
 5. popする際に選択されたvalueを渡す
 
 6. ホーム画面に戻ったら、渡されたvalueをボタンの中に表示させる
+
+
+
+
+
+## 答え：
+https://github.com/LEADME-Okinawa/01_leadme/pull/2

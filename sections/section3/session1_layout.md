@@ -17,4 +17,10 @@
 
 
 ## NEXT: 
-[画面遷移を実装する](./session2%20navigation.md)
+[画面遷移を実装する](./session2_navigation.md)
+
+
+
+
+## 答え：
+https://github.com/LEADME-Okinawa/01_leadme/pull/1
