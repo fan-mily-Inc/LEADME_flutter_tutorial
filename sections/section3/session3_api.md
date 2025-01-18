@@ -50,3 +50,7 @@ https://www.jma.go.jp/bosai/forecast/data/overview_forecast/130000.json
 ![03](./images/03/api_result.png)
 
 
+
+
+## 答え：
+https://github.com/LEADME-Okinawa/01_leadme/pull/3
