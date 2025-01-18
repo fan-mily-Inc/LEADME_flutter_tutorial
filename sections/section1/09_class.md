@@ -45,5 +45,8 @@ void main() {
 }
 ```
 
-## Next: 
-[setup](../section2/00_setup.md)
+
+## NEXT: 
+
+[Flutterのセットアップ](../section2/00_setup.md)
+
