@@ -45,6 +45,7 @@ IT未経験者でも大丈夫！
 1. [関数](./sections/section1/08_func.md)
 1. [クラス](./sections/section1/09_class.md)
 
+
 ### Section2. セットアップ
 
 - [FlutterとGithubのセットアップ](./sections/section2/00_setup.md)
@@ -60,6 +61,12 @@ IT未経験者でも大丈夫！
 2. [画面遷移を実装する](/sections/section3/session2_navigation.md)
 
 3. [API連携で天気予報データを取得する](/sections/section3/session3_api.md)
+
+4. [ログイン機能を実装する](https://github.com/fan-mily-Inc/LEADME_flutter_tutorial/blob/main/sections/section3/session4_auth.md)
+
+5. [プロフィール画面を実装しよう](https://github.com/fan-mily-Inc/LEADME_flutter_tutorial/blob/main/sections/section3/session5_profile.md)
+
+6. [プロフィール情報をFistore（クラウドデータベース）に保存し、読み取り、書き込み（CRUD操作）できるようにしよう！](https://github.com/fan-mily-Inc/LEADME_flutter_tutorial/blob/main/sections/section3/session6_firestore.md)
 
 
 
