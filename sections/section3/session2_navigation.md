@@ -36,3 +36,7 @@
 
 ## 答え：
 https://github.com/LEADME-Okinawa/01_leadme/pull/2
+
+
+## NEXT: 
+[画面遷移を実装する](https://github.com/fan-mily-Inc/LEADME_flutter_tutorial/blob/main/sections/section3/session2_navigation.md)
